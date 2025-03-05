@@ -1,5 +1,17 @@
 # @vercel/remix-builder
 
+## 5.4.2
+
+### Patch Changes
+
+- Fix build failure when using an index route with a pathless layout ([#13108](https://github.com/vercel/vercel/pull/13108))
+
+## 5.4.1
+
+### Patch Changes
+
+- Use proper npm package name for React Router in Preset error message ([#13103](https://github.com/vercel/vercel/pull/13103))
+
 ## 5.4.0
 
 ### Minor Changes
